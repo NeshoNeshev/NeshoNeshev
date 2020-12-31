@@ -1,4 +1,4 @@
-      
+- 🎓💻 **Student at: SoftwareUniversity      
       
 <div>
   <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=NeshoNeshev&count_private=true&true&hide=issues&show_icons=true" />
