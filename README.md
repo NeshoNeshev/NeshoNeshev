@@ -1,7 +1,8 @@
 - 🎓💻 **Student at: SoftwareUniversity**     
       
 <div>
-  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=NeshoNeshev&count_private=true&true&hide=issues&show_icons=true" /><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeshoNeshev&layout=compact" />
+  <img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=NeshoNeshev&count_private=true&true&hide=issues&show_icons=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeshoNeshev&layout=compact" />
 </div>
 
 | :octocat: Connect via: | :scroll: Certificates: |
