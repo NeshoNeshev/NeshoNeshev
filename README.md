@@ -1,5 +1,7 @@
 - 🎓💻 **Student at: SoftwareUniversity**     
-    
+   
+   <img width="150" height="40" align="center" src="https://visitor-badge.glitch.me/badge?page_id=NeshoNeshev">
+
 <div>
   <img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=NeshoNeshev&count_private=true&true&hide=issues&show_icons=true&theme=gotham"/>
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeshoNeshev&layout=compact" />
