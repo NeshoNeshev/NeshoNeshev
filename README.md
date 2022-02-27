@@ -1,5 +1,8 @@
 - 🎓💻 **Student at: SoftwareUniversity**     
-  <meta name="google-site-verification" content="UhojxJ9HCoBhAAPfDHnTo24U9gbjwKJGlaWNcGRodJM" />
+ <head>
+ 
+<meta name="google-site-verification" content="UhojxJ9HCoBhAAPfDHnTo24U9gbjwKJGlaWNcGRodJM" />
+</head>
    <img width="150" height="40" align="center" src="https://visitor-badge.glitch.me/badge?page_id=NeshoNeshev">
 
 <div>
